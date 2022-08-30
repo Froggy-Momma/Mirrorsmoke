@@ -94,8 +94,8 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Background Check",
           "status": "start"
         },
       ],
@@ -125,12 +125,12 @@ export default {
           "mech": "Scarlet Judicator"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Raspberry",
+          "alias": "Ada Armada",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Ev-0662"
         },
         {
           "callsign": "Compadre",
@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Card Trick",
       },
       "options":{
         "eventsMarkdownPerMission": true
