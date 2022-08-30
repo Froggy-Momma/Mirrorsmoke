@@ -98,6 +98,11 @@ export default {
           "name": "Background Check",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "About MSMC",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
