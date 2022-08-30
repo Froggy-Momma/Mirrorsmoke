@@ -109,12 +109,12 @@ export default {
           "mech": "Ev-0457"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Junk Rat",
+          "alias": "Fink",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///TENKAI-PALM-0520//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Ev-0039"
         },
         {
           "callsign": "Lemonade",
