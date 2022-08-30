@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "001",
-          "name": "About MSMC",
+          "name": "MSMC",
           "status": "start"
         },
       ],
