@@ -132,19 +132,27 @@ export default {
           "frame": "Everest",
           "mech": "Ev-0662"
         },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+         {
+          "callsign": "Omega Shadow",
+          "alias": 'Arina Knight',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///TENKAI-PALM-0520//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Ev-0812"
+        },
+        {
+          "callsign": "Girasol Sur",
+          "alias": 'Qiyana Fuentes',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NTENKAI-PALM-0520//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Ev-0714"
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Kuenaimaku",
         "year": "5014u",
-        "system": "Ardennes-3",
+        "system": "Corsica-4",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
