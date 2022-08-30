@@ -158,7 +158,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Card Trick",
+        "subheaderSubtitle": "092 - Card Trick",
       },
       "options":{
         "eventsMarkdownPerMission": true
