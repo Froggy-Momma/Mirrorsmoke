@@ -107,11 +107,11 @@ export default {
       "pilots": [
         {
           "callsign": "Scarlet",
-          "alias": "Rach",
+          "alias": "Rach Scarlet",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///TENKAI-PALM-0520//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Ev-0457"
+          "mech": "JP-SFV Hellion"
         },
         {
           "callsign": "Junk Rat",
