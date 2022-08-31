@@ -4,9 +4,9 @@ A new hire for Mirrorsmoke, he provided shockingly little experience on his resu
 
 ## Rumours
 
-He tested very high on the aptitude scores, but could not provide significant examples of practical fieldwork experience.
-He hates the Kaarakin Trade Baronies.
-He may have been part of a crew that recently attacked a small Barony Outpost, causing a minor Data Leak that cost Karakis some significant money to plug up.
-His mask is hiding a brutal scar.
-He’s a runaway prince, looking for rebellious adventure. Hence, the ridiculous outfit. 
-He’s a fugitive criminal murderer, trying to lay low with a new identity.
+* He tested very high on the aptitude scores, but could not provide significant examples of practical fieldwork experience.
+* He hates the Kaarakin Trade Baronies.
+* He may have been part of a crew that recently attacked a small Barony Outpost, causing a minor Data Leak that cost Karakis some significant money to plug up.
+* His mask is hiding a brutal scar.
+* He’s a runaway prince, looking for rebellious adventure. Hence, the ridiculous outfit. 
+* He’s a fugitive criminal murderer, trying to lay low with a new identity.
