@@ -1,4 +1,4 @@
-[Access Restricted]
+## Bio
 
 ## Rumours
 
