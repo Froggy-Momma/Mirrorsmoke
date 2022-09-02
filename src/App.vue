@@ -138,8 +138,8 @@ export default {
           "mech": "Ev-0662"
         },
          {
-          "callsign": "Omega Shadow",
-          "alias": 'Arina Knight',
+          "callsign": "Toxic",
+          "alias": 'Tiffany Langley',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///TENKAI-PALM-0520//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
