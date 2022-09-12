@@ -14,8 +14,8 @@
 	<div class="pilot-modal portrait">
 		<div class="pilot-header-container">
 			<div class="section-header clipped-medium-backward-pilot">
-				<img src="/icons/portrait-icon.svg" />
-				<h1>Pilot</h1>
+				<img src="/icons/company-icon.svg" />
+				<h1>Mech Expanded View</h1>
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
