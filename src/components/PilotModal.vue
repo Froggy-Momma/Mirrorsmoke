@@ -19,8 +19,8 @@
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
-		<div class="mech">
-			<img :src="mechPortrait" class="portrait" />
+		<div class="pilot">
+			<img :src="portrait" class="portrait" />
 		</div>
 	</div>
 </template>
