@@ -15,7 +15,7 @@
 		<div class="pilot-header-container">
 			<div class="section-header clipped-medium-backward-pilot">
 				<img src="/icons/company-icon.svg" />
-				<h1>Mech Expanded View</h1>
+				<h1>{{ pilot.mech }}</h1>
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
