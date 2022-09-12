@@ -1,7 +1,7 @@
 <template>
 	<div class="pilot-wrapper" @click="pilotModal">
 		<div class="pilot">
-			<img :src="mechPortrait" class="mech-portrait" />
+			<img :src="pilotPortrait" class="pilot-portrait" />
 			<div class="pilot-loadout">
 				<div class="name">
 					<h1>Callsign</h1>
