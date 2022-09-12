@@ -13,7 +13,7 @@
 	</div>
 	<div class="pilot-modal portrait">
 		<div class="pilot-header-container">
-			<div class="section-header clipped-medium-backward-mech">
+			<div class="section-header clipped-medium-backward-pilot">
 				<img src="/icons/company-icon.svg" />
 				<h1>Mech Expanded View</h1>
 			</div>
