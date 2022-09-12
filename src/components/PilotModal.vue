@@ -20,7 +20,7 @@
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
 		<div class="pilot">
-		<img :src="mechPortrait" class="mech-portrait" style="width:700px; height:700px;"/>
+		<img :src="mechPortrait" class="mech-portrait" style="width:680px; height:680px;"/>
 		</div>
 	</div>
 </template>
