@@ -19,7 +19,7 @@
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
-		<div class="pilot">
+		<div class="mech">
 			<img :src="mechPortrait" class="mech-portrait" />
 		</div>
 	</div>
