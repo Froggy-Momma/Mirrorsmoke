@@ -44,8 +44,8 @@ export default {
 		}
 	},
 	computed: {
-		mech-portrait() {
-			return `/pilots/${this.pilot.mech}.png`
+		mechPortrait() {
+			return `/mechs/${this.pilot.mech}.png`
 		},
 	},
 	created() {
