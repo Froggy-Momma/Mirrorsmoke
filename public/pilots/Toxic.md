@@ -8,6 +8,7 @@ She left the SSC Constellar Security Force of her own accord and approached MSMC
 ## Rumours
 
 * She has no blood. It is unknown if what she bleeds isn't blood, or if just doesn't bleed at all.
-* She is immune to poisons and venoms and is not harmed by breathing acidic gasses.
+* She is immune to poisons and venoms
+* She breathes acid
 * She is a shapeshifter.
 * She is a cyborg/android
