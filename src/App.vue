@@ -119,7 +119,7 @@ export default {
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///TENKAI-PALM-0520//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Ev-0039"
+          "mech": "Lead Sled"
         },
         {
           "callsign": "Lemonade",
