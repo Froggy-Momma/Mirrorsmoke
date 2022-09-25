@@ -143,7 +143,7 @@ export default {
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///TENKAI-PALM-0520//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Ev-0812"
+          "mech": "Oleander"
         },
         {
           "callsign": "Girasol Sur",
