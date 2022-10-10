@@ -127,7 +127,7 @@ export default {
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///TENKAI-PALM-0520//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Ev-0722"
+          "mech": "We Were Made For Each Other"
         },
         {
           "callsign": "Raspberry",
@@ -135,7 +135,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///TENKAI-PALM-0520//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Ev-0662"
+          "mech": "STRANGER"
         },
          {
           "callsign": "Toxic",
