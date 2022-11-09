@@ -127,7 +127,7 @@ export default {
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///TENKAI-PALM-0520//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "We Were Made For Each Other"
+          "mech": "WWMEO"
         },
         {
           "callsign": "Raspberry",
